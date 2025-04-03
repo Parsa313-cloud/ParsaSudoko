@@ -1,4 +1,9 @@
-# ParsaSudoko
+# My Sudoku Game 🧩  
+
+![Version](https://img.shields.io/badge/version-1.00-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+
 ## project introduction
 Hi guys this is my firt project that I am so intrested in sharing with you.
 This is **Sudoko game** written in **C++** .The game features a **dynamic timer** based on difficulty level and a **leaderboard** to track players' scores.
