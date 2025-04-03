@@ -10,15 +10,15 @@ This is **Sudoko game** written in **C++** .The game features a **dynamic timer*
 
 ## Pictures of the game 🎞️🎞️
 this is the logging page that you shoud write your name 
-![Game Screenshot](Images/logging_page)
+![Game Screenshot](C:\Users\Padidar\ParsaSudoko\Images/logging_page)
 
 then you can see the main page of game . If you want to play enter 1 😎
 
-![Game Screenshot](Images/Menu_page)
+![Game Screenshot](C:\Users\Padidar\ParsaSudoko\Images/Menu_page)
 
 Finally you can enjoy with your game😍😍
 
-![Game Screenshot](images/Main_page)
+![Game Screenshot](C:\Users\Padidar\ParsaSudoko\Images/Main_page)
 
 
 
