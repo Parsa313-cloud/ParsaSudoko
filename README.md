@@ -1,6 +1,6 @@
 # ParsaSudoko
 ## project introduction
-Hi guys this my firt project that i am so intrested in sharing with you.
+Hi guys this is my firt project that I am so intrested in sharing with you.
 This is **Sudoko game** written in **C++** .The game features a **dynamic timer** based on difficulty level and a **leaderboard** to track players' scores.
 ## Game Points
 ✅ **Dynamic Timer:** The game timer adjusts based on difficulty level.  
