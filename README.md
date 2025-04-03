@@ -8,6 +8,21 @@ This is **Sudoko game** written in **C++** .The game features a **dynamic timer*
 ✅ **Leaderboard:** View scores of different players.  
 ✅ **Console-based Interface:** The game runs in the terminal/console.
 
+## Pictures of the game 🎞️🎞️
+this is the logging page that you shoud write your name 
+![Game Screenshot](images/logging_page)
+
+then you can see the main page of game . If you want to play enter 1 😎
+
+![Game Screenshot](images/Menu_page)
+
+Finally you can enjoy with your game😍😍
+
+![Game Screenshot](images/Main_page)
+
+
+
+
 ## How to run 🎊🎊
 Follow these steps to run the game:  
 
@@ -28,4 +43,3 @@ g++ -o sudoku main.cpp
 4️⃣ Run the game:
 
 ./sudoku
-...........................................
