@@ -9,16 +9,14 @@ This is **Sudoko game** written in **C++** .The game features a **dynamic timer*
 ✅ **Console-based Interface:** The game runs in the terminal/console.
 
 ## Pictures of the game 🎞️🎞️
-this is the logging page that you shoud write your name 
-![Game Screenshot](C:\Users\Padidar\ParsaSudoko\Images/logging_page.png)
+This is the logging page where you should write your name  
+![Logging Page](Images/logging_page.png)
 
-then you can see the main page of game . If you want to play enter 1 😎
+Then you can see the main page of the game. If you want to play, enter 1 😎  
+![Menu Page](Images/Menu_page.png)
 
-![Game Screenshot](C:\Users\Padidar\ParsaSudoko\Images/Menu_page.png)
-
-Finally you can enjoy with your game😍😍
-
-![Game Screenshot](C:\Users\Padidar\ParsaSudoko\Images/Main_page.png)
+Finally, you can enjoy your game! 😍😍  
+![Main Page](Images/Main_page.png)
 
 
 
